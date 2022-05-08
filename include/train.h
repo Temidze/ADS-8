@@ -1,4 +1,3 @@
-@@ -1,22 +1,22 @@
 // Copyright 2022 NNTU-CS
 #ifndef INCLUDE_TRAIN_H_
 #define INCLUDE_TRAIN_H_
