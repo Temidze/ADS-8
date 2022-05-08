@@ -35,8 +35,6 @@ int Train::getLength() {
                 temp = temp->prev;
                 countop += 1;
             }
-        } 
-
         } else {
             while (!temp->light) {
                 len += 1;
